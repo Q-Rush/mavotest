@@ -1,0 +1,14 @@
+{
+	"eintrag": [
+		{
+			"name": "Vocation",
+			"preis": "6,90",
+			"beschreibung": "Ein IPA mit fruchtiger Note"
+		},
+		{
+			"name": "Pilsener Urquell",
+			"preis": "3,90",
+			"beschreibung": "Ein Pils halt"
+		}
+	]
+}
